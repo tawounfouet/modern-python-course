@@ -21,6 +21,8 @@ Topics Covered -
 
 ```bash
     pip install ipython mypy black
+
+    CMD + ,  # to open settings
 ```
 
 ## Check Python Version
