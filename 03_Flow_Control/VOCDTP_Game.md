@@ -7,15 +7,39 @@ Visualize - Outline - Code | Debug - Test - Polish
 2. Can you try to visualize how Avengers will try to defeat Thanos.
 3. Can you try and think what happens if Avengers are not successful.
 
+```sh
+        CHARACTERS
+
+# Super Heroes              # Super Vilains
+1. Ironman                  1. Thanos
+2. Black Widow
+3. Spiderman
+4. Hulk
+```
+
+
 ## Step 2 - Outline
 1. Can you convert the characters and actions into variables or constants.
 2. Can you try to assign values to the variables/constants you just created.
 3. Can you write steps in plain English, of how avengers can attack Thanos.
+```sh
+
+                  CHARACTERS
+
+# Properties                    Constraints                                  Logic
+1. Fire or Attack Power         1. Answers can attack only in pairs          How to simulate the attack
+2. Life                         2. Only 03 changes  
+```
+
 
 ## Step 3 - Code
 1. Declare all the variables/constants and assign values.
 2. Can you translate the steps you wrote in Step 2 into logic.
 3. Run you code and see if it works.
+
+
+
+
 
 ## Step 4 - Debug
 1. If something is not working proper, can you debug the program.

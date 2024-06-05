@@ -20,4 +20,4 @@ match fav_color:
     case "green":
         print("Louis has a GREEN hat")
     case _:
-        print(f"Louis has nothing in {fav_color} color.")
+        print(f"Louis has nothing in '{fav_color}' color.")

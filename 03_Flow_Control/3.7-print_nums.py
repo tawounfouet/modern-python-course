@@ -48,3 +48,8 @@ Tip - Use If/Else block
 """
 
 # ------------------------------------------------------------------
+for num in range(10):
+    if num <=8:
+        print(num, end="_")
+    else:
+        print(num)

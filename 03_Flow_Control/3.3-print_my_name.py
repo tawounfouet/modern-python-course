@@ -9,3 +9,10 @@ name: str = "Louis"
 for character in name:
     # Each iteration print a character
     print(character)
+
+
+# name: str = "Louis"
+
+
+# for chararcter in name:
+#     print(chararcter)
