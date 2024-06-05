@@ -5,6 +5,13 @@ Topics Covered -
 1. Declaring Variables
 2. Variable Rules
 3. Primitive Data Types
+    - Strings - "Thomas"
+    - Integers - 45
+    - Floats - 3.14
+    - Boolean - True/False 
+
+
+
 
 ## Sequence -
 

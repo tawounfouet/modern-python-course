@@ -17,6 +17,9 @@ print(f"Box contains: {box}")
 # Introducing `Type Hinting` - Optional Static Type Checking in Python Using `Mypy`
 # ---------------------------------------------------------------------------------
 
+# food = "Milk"
+#food: str = "Milk"
+
 food: str = "Milk"
 print(f"Louis is going to eat: {food}")
 
@@ -25,3 +28,5 @@ print(f"Louis is going to eat: {food}")
 
 food = False  # Will execute but we can find bugs
 print(f"Louis is going to eat: {food}")
+
+#  pip install mypy 

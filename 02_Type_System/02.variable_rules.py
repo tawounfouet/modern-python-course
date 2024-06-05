@@ -31,3 +31,6 @@ print(lucky_number_3)
 # isLuckyNumber? = "Variables with special characters"
 # $myName = "Variables starting with special characters"
 # lucky number = "Variables with spaces"
+
+#isLuckyNumber? = 7
+#print(isLuckyNumber)
