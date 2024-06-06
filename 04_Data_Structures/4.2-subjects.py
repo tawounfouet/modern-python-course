@@ -29,7 +29,7 @@ print(f"No. of subjects: {len(subjects)}")
 # ---------------------------------------------------------------------
 
 for subject in subjects:
-    print(f"Louis is signing up for: {subject}")
+    print(f"  ->> Louis is signing up for: {subject}")
 
 # ---------------------------------------------------------------------
 # Louis wants to see which is his second subject
